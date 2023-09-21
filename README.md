@@ -24,8 +24,8 @@ In order to keep the code private, I only submited the screenshots of the web ap
 
 ![](./formProj.png)
 ![](./allProjects.png)
-![](./projDelete.png)
 ![](./projDetails.png)
+![](./projDelete.png)
 
 
 
